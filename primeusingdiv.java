@@ -1,5 +1,6 @@
 import java.util.Scanner;
-public class prime{
+public class primeusingdiv
+{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int x = sc.nextInt();

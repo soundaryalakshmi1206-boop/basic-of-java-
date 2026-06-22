@@ -1,0 +1,14 @@
+// Java Program to demonstrate 
+// the infinite while loop
+import java.io.*;
+
+class Geeks {
+    public static void main(String[] args)
+    {
+        while(true)
+        {
+            System.out.println(
+                "Basic example of infinte loop");
+        }
+    }
+}

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class n{
+public class stringbuilder{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         String a = sc.nextLine();

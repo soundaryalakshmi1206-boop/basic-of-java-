@@ -1,5 +1,5 @@
 import java.util.Scanner;
- class i {
+ class shape {
     public static void main(String[] args){
         Scanner s = new Scanner(System.in);
         System.out.print("ENTER THE SHAPE NAME TO FIND THE AREA AND PERIMETER:");
